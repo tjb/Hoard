@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" rx="224" fill="#14171F"/>
+
+  <g id="tail">
+    <path d="M 250 600 C 222 770, 520 806, 712 758 C 826 730, 888 670, 879 560 L 861 560 C 852 640, 792 680, 692 700 C 520 736, 296 700, 312 600 Z" fill="#2FB3A0" stroke="#1E7F72" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M 870 450 C 886 488, 906 522, 918 562 L 870 540 L 822 562 C 834 522, 854 488, 870 450 Z" fill="#2FB3A0" stroke="#1E7F72" stroke-width="7" stroke-linejoin="round"/>
+  </g>
+
+  <g id="tier3">
+    <rect x="212" y="552" width="600" height="84" rx="14" fill="#E0A82E"/>
+    <rect x="212" y="552" width="600" height="20" rx="10" fill="#F5C95C"/>
+    <rect x="212" y="620" width="600" height="16" rx="8" fill="#B07A16"/>
+    <g stroke="#B07A16" stroke-width="5" opacity="0.55">
+      <line x1="287" y1="578" x2="287" y2="616"/><line x1="362" y1="578" x2="362" y2="616"/>
+      <line x1="437" y1="578" x2="437" y2="616"/><line x1="512" y1="578" x2="512" y2="616"/>
+      <line x1="587" y1="578" x2="587" y2="616"/><line x1="662" y1="578" x2="662" y2="616"/>
+      <line x1="737" y1="578" x2="737" y2="616"/>
+    </g>
+  </g>
+
+  <g id="tier2">
+    <rect x="302" y="452" width="420" height="84" rx="14" fill="#E0A82E"/>
+    <rect x="302" y="452" width="420" height="20" rx="10" fill="#F5C95C"/>
+    <rect x="302" y="520" width="420" height="16" rx="8" fill="#B07A16"/>
+    <g stroke="#B07A16" stroke-width="5" opacity="0.55">
+      <line x1="372" y1="478" x2="372" y2="516"/><line x1="442" y1="478" x2="442" y2="516"/>
+      <line x1="512" y1="478" x2="512" y2="516"/><line x1="582" y1="478" x2="582" y2="516"/>
+      <line x1="652" y1="478" x2="652" y2="516"/>
+    </g>
+  </g>
+
+  <g id="tier1">
+    <rect x="392" y="352" width="240" height="84" rx="14" fill="#E0A82E"/>
+    <rect x="392" y="352" width="240" height="20" rx="10" fill="#F5C95C"/>
+    <rect x="392" y="420" width="240" height="16" rx="8" fill="#B07A16"/>
+    <g stroke="#B07A16" stroke-width="5" opacity="0.55">
+      <line x1="452" y1="378" x2="452" y2="416"/><line x1="512" y1="378" x2="512" y2="416"/>
+      <line x1="572" y1="378" x2="572" y2="416"/>
+    </g>
+  </g>
+
+  <g id="coin">
+    <circle cx="512" cy="282" r="50" fill="#F5C95C" stroke="#B07A16" stroke-width="9"/>
+    <circle cx="512" cy="282" r="26" fill="none" stroke="#B07A16" stroke-width="6"/>
+  </g>
+
+  
+</svg>

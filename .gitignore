@@ -1,0 +1,17 @@
+# Build output
+/bin/
+*.test
+*.out
+*.prof
+
+# Data written by tests and benchmarks
+/data/
+/tmp/
+*.wal
+*.sst
+*.log
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
